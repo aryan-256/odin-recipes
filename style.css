@@ -1,0 +1,14 @@
+.head {
+    background-color: rgba(165, 42, 42, 0.652);
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: rgba(45, 45, 177, 0.827)
+}
+a {
+    font-weight: bold;
+    color:rgba(16, 129, 37, 0.827)
+}
+div {
+    color: blue;
+}
